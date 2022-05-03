@@ -36,9 +36,9 @@ Find the Kaggle competition [here](https://www.kaggle.com/t/0375f29ef60545b9bd21
 
 ## Deadline
 
-+ Thursday 24 February 2022 23:59
++ Monday 9th May 2022 23:59
 
-+ Project presentations will be held on Friday 25 February 2022.
++ Project presentations will be held on Thursday 10th May 2022.
 
 ## Tips
 - Take advantage of the daily submissions. Try at least one today!
