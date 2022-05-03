@@ -20,11 +20,11 @@ Find the Kaggle competition [here](https://www.kaggle.com/t/0375f29ef60545b9bd21
     2.1 **Export** the model: we don't want to invest time/RAM resources on training the model again in the future.
 
 #### test.csv
-* 3. Apply the same **cleaning** to `test.csv`. This files does NOT contain a **y**.
-* 4. We'll apply the already **trained model** from step 2 to the `text.csv` file. With this we'lñl generate a new column with the predicted values.  
+3. Apply the same **cleaning** to `test.csv`. This files does NOT contain a **y**.
+4. We'll apply the already **trained model** from step 2 to the `text.csv` file. With this we'lñl generate a new column with the predicted values.  
 
 #### my_submission.csv
-* 5. Generate a `submission.csv` file with only two columns: the **ID** of the diamond & the predicted **price** (y).
+5. Generate a `submission.csv` file with only two columns: the **ID** of the diamond & the predicted **price** (y).
 
 
 ## Deliverables
