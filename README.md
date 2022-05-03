@@ -1,6 +1,6 @@
 # W7-Kaggle_competition
 
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w7-Kaggle_competition/blob/main/img/Airbnb-inventory-travel-vaccinations.jpg)
+![portada](https://github.com/Ironhack-Data-Madrid-Marzo-2022/w7-Kaggle_competition/blob/main/img/Airbnb-inventory-travel-vaccinations.jpg)
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Find the Kaggle competition [here](/img/Airbnb-inventory-travel-vaccinations2.jpg).
+Find the Kaggle competition [here](https://www.kaggle.com/c/airbnb-ironhack/data).
 
 ### Data
 #### train.csv
