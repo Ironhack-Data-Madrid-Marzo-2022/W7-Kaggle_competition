@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Find the Kaggle competition [here](https://www.kaggle.com/c/airbnb-ironhack/data).
+Find the Kaggle competition [here](https://www.kaggle.com/competitions/airbnb-madrid-ironhack).
 
 ### Data
 #### train.csv
