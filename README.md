@@ -14,10 +14,10 @@ Find the Kaggle competition [here](https://www.kaggle.com/t/0375f29ef60545b9bd21
 #### train.csv
 1. **Processing/cleaning** the dataset: this should be later modularized in functions.
 2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**.
-        - Do *train, test, split* on `train.csv` if necessary.
-        - Choose the best model regarding the metrics. In this case, the lowest RMSE (error).
+    - Do *train, test, split* on `train.csv` if necessary.
+    - Choose the best model regarding the metrics. In this case, the lowest RMSE (error).
 
-        2.1 **Export** the model: we don't want to invest time/RAM resources on training the model again in the future.
+    2.1 **Export** the model: we don't want to invest time/RAM resources on training the model again in the future.
 
 #### test.csv
 * 3. Apply the same **cleaning** to `test.csv`. This files does NOT contain a **y**.
