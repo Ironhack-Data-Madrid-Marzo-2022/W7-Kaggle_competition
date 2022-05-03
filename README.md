@@ -12,8 +12,8 @@ Find the Kaggle competition [here](https://www.kaggle.com/t/0375f29ef60545b9bd21
 
 ### Data
 #### train.csv
-* 1. **Processing/cleaning** the dataset: this should be later modularized in functions.
-* 2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**.
+1. **Processing/cleaning** the dataset: this should be later modularized in functions.
+2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**.
         - Do *train, test, split* on `train.csv` if necessary.
         - Choose the best model regarding the metrics. In this case, the lowest RMSE (error).
 
