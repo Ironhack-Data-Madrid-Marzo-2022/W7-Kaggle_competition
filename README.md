@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Find the Kaggle competition [here](https://www.kaggle.com/c/airbnb-ironhack/data).
+Find the Kaggle competition [here](/img/Airbnb-inventory-travel-vaccinations2.jpg).
 
 ### Data
 #### train.csv
