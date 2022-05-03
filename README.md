@@ -17,7 +17,7 @@ Find the Kaggle competition [here](https://www.kaggle.com/t/0375f29ef60545b9bd21
         - Do *train, test, split* on `train.csv` if necessary.
         - Choose the best model regarding the metrics. In this case, the lowest RMSE (error).
 
-        2.1. **Export** the model: we don't want to invest time/RAM resources on training the model again in the future.
+        2.1 **Export** the model: we don't want to invest time/RAM resources on training the model again in the future.
 
 #### test.csv
 * 3. Apply the same **cleaning** to `test.csv`. This files does NOT contain a **y**.
